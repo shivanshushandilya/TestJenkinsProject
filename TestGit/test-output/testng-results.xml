@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19990" started-at="2018-05-08T08:33:20Z" finished-at="2018-05-08T08:33:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19990" started-at="2018-05-08T08:33:20Z" finished-at="2018-05-08T08:33:40Z">
+      <class name="PageTest.Ptest">
+        <test-method status="PASS" signature="runner()[pri:0, instance:PageTest.Ptest@46d56d67]" name="runner" duration-ms="19855" started-at="2018-05-08T14:33:20Z" finished-at="2018-05-08T14:33:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runner -->
+      </class> <!-- PageTest.Ptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
